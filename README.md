@@ -1,13 +1,12 @@
 # Landing Page Project
-Project is clone by Udacity Classroom. ->  https://github.com/udacity/cd0428-landing-page/
-
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+On this project I used the starter HTML and CSS files provided by Udacity class.
+This is static page into an interactive one.
+Original repository : https://github.com/udacity/cd0428-landing-page/
+I was implementing the following features/made the following changes/project rubric:
 
   1. Building NavBar Using buildNav() function 
 
   2. Section Active State
 
+# Live page
+https://phucle24.github.io/landing-page/
