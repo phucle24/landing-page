@@ -26,7 +26,7 @@ h1 {
     margin: 2em 1rem;
 }
 
-@media only screen and (min-width: 35em){
+@media only screen and (min-width: 740px){
     h1 {
         font-size: 7em;
         margin: 2em 4rem 1em;
@@ -68,6 +68,7 @@ section {
     padding-left: 0;
     margin: 0;
     text-align: right;
+    float: left;
 }
 
 .navbar__menu li {
@@ -86,6 +87,19 @@ section {
     background: #333;
     color: #fff;
     transition: ease 0.3s all;
+    border-radius: 10px;
+}
+
+/* Active */
+.active {
+    background: rgb(0, 0, 0);
+    backdrop-filter: blur(1px);
+    border-radius: 10px;
+}
+
+.active__link {
+    background: #767272;
+    border-radius: 10px;
 }
 
 /* Header Styles */
